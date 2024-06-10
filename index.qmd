@@ -1,4 +1,4 @@
-# Graduate Student Handbook
+# Graduate Student Handbook {.unnumbered}
 
 This is the 
 [Graduate Student Handbook](https://isustatistics.github.io/graduate_handbook/) for the 

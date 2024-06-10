@@ -2,7 +2,7 @@ theme:
   - cosmo
 
 project:
-  type: website
+  type: book
   output-dir: docs
 
 book:
@@ -22,8 +22,8 @@ book:
         - academics/phd.qmd
         - academics/mas.qmd
     - part: life.qmd
-      chapters:
-        - life/housing.qmd
+      # chapters:
+      #   - life/housing.qmd
     - part: incoming.qmd
 
 execute:
