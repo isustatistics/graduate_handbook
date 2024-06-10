@@ -1,10 +1,45 @@
 [
   {
+    "objectID": "academics.html",
+    "href": "academics.html",
+    "title": "Academics",
+    "section": "",
+    "text": "Academics\nStub for the academics part."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Graduate Student Handbook",
     "section": "",
-    "text": "Graduate Student Handbook\n\nWebsites"
+    "text": "Graduate Student Handbook\nThis is the Graduate Student Handbook for the Department of Statistics at Iowa State University. It is intended to be a supplement to the Graduate College Handbook at Iowa State University."
+  },
+  {
+    "objectID": "academics/phd.html",
+    "href": "academics/phd.html",
+    "title": "Doctor of Philosophy in Statistics",
+    "section": "",
+    "text": "Doctor of Philosophy in Statistics\nStub for the PhD in Statistics chapter."
+  },
+  {
+    "objectID": "academics/mas.html",
+    "href": "academics/mas.html",
+    "title": "Masters of Applied Statistics",
+    "section": "",
+    "text": "Masters of Applied Statistics\nStub for the Masters of Applied Statistics (MAS) chapter."
+  },
+  {
+    "objectID": "life.html",
+    "href": "life.html",
+    "title": "Life",
+    "section": "",
+    "text": "Life\nStub for the life part."
+  },
+  {
+    "objectID": "academics/ms.html",
+    "href": "academics/ms.html",
+    "title": "Masters of Science in Statistics",
+    "section": "",
+    "text": "Masters of Science in Statistics\nStub for the MS in Statistics chapter."
   },
   {
     "objectID": "website.html",
@@ -26,5 +61,12 @@
     "title": "Website",
     "section": "",
     "text": "We encourage you to construct your own personal website"
+  },
+  {
+    "objectID": "incoming.html",
+    "href": "incoming.html",
+    "title": "Incoming",
+    "section": "",
+    "text": "Incoming\nStub for the incoming part."
   }
 ]
