@@ -1,3 +1,30 @@
+theme:
+  - cosmo
+
 project:
   type: website
   output-dir: docs
+
+book:
+  title: "Iowa State University Department of Statistics Graduate Handbook"
+
+  page-footer:
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  repo-url: https://github.com/jarad/STAT5860/
+  repo-branch: main
+  chapters:
+    - index.qmd
+
+    - part: academics.qmd
+      chapters:
+        - academics/ms.qmd
+        - academics/phd.qmd
+        - academics/mas.qmd
+    - part: life.qmd
+      chapters:
+        - life/housing.qmd
+    - part: incoming.qmd
+
+execute:
+  freeze: auto

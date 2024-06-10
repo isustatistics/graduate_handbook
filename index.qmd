@@ -1,0 +1,10 @@
+# Graduate Student Handbook
+
+This is the 
+[Graduate Student Handbook](https://isustatistics.github.io/graduate_handbook/) for the 
+[Department of Statistics](https://www.stat.iastate.edu/)
+at 
+[Iowa State University](https://www.iastate.edu/).
+It is intended to be a supplement to the 
+[Graduate College Handbook](https://www.grad-college.iastate.edu/handbook/)
+at Iowa State University. 
