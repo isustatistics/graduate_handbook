@@ -29,7 +29,8 @@ Install the following software
 
 ## Configure Git/GitHub
 
-Configure git on your computer using Terminal in RStudio, enter the following
+Configure git on your computer using 
+[Terminal in RStudio](https://docs.posit.co/ide/user/ide/guide/tools/terminal.html), enter the following
 
 ```
 git config --global user.name "Jane Doe"
@@ -47,7 +48,8 @@ SSH keys.
 - [ ] [Add SSH RSA key to github.com](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account) (Step 1 has already been completed in the previous step.)
 - [ ] [Test ssh github.com connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection). 
 
-Using Terminal tab in RStudio enter the following
+Using [Terminal in RStudio](https://docs.posit.co/ide/user/ide/guide/tools/terminal.html)
+enter the following
 
 ```
 ssh -T git@github.com
