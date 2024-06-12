@@ -18,9 +18,7 @@ book:
 
     - part: academics.qmd
       chapters:
-        - academics/ms.qmd
-        - academics/phd.qmd
-        - academics/mas.qmd
+        - academics/degrees.qmd
     - part: life.qmd
       # chapters:
       #   - life/housing.qmd

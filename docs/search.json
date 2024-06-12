@@ -4,72 +4,62 @@
     "href": "index.html",
     "title": "Iowa State University Department of Statistics Graduate Handbook",
     "section": "",
-    "text": "Graduate Student Handbook\nThis is the Graduate Student Handbook for the Department of Statistics at Iowa State University. It is intended to be a supplement to the Graduate College Handbook at Iowa State University.",
-    "crumbs": [
-      "Graduate Student Handbook"
-    ]
+    "text": "Graduate Student Handbook\nThis is the Graduate Student Handbook for the Department of Statistics at Iowa State University. It is intended to be a supplement to the Graduate College Handbook at Iowa State University."
   },
   {
     "objectID": "academics.html",
     "href": "academics.html",
     "title": "Academics",
     "section": "",
-    "text": "Stub for the academics part.",
-    "crumbs": [
-      "Academics"
-    ]
+    "text": "Stub for the academics part."
   },
   {
-    "objectID": "academics/ms.html",
-    "href": "academics/ms.html",
-    "title": "1  Masters of Science in Statistics",
-    "section": "",
-    "text": "Stub for the MS in Statistics chapter.",
-    "crumbs": [
-      "Academics",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Masters of Science in Statistics</span>"
-    ]
+    "objectID": "academics/degrees.html#doctor-of-philosophy-phd-in-statistics",
+    "href": "academics/degrees.html#doctor-of-philosophy-phd-in-statistics",
+    "title": "1  Degrees",
+    "section": "1.1 Doctor of Philosophy (PhD) in Statistics",
+    "text": "1.1 Doctor of Philosophy (PhD) in Statistics\n\n1.1.1 Requirements\nThe PhD in Statistics has the following course requirements: STAT 5000, STAT 5420, STAT 5790, STAT 5100, STAT 5430, STAT 5200, STAT 6410, STAT 6010, and STAT 6420. These courses total"
   },
   {
-    "objectID": "academics/phd.html",
-    "href": "academics/phd.html",
-    "title": "2  Doctor of Philosophy in Statistics",
-    "section": "",
-    "text": "Stub for the PhD in Statistics chapter.",
-    "crumbs": [
-      "Academics",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Doctor of Philosophy in Statistics</span>"
-    ]
+    "objectID": "academics/degrees.html#masters-of-science-ms-in-statistics",
+    "href": "academics/degrees.html#masters-of-science-ms-in-statistics",
+    "title": "1  Degrees",
+    "section": "1.2 Master’s of Science (MS) in Statistics",
+    "text": "1.2 Master’s of Science (MS) in Statistics\n\n1.2.1 Courses\nThe MS in Statistics has the following course requirements: STAT 5000, STAT 5420, STAT 5790, STAT 5100, STAT 5430, and STAT 5200."
   },
   {
-    "objectID": "academics/mas.html",
-    "href": "academics/mas.html",
-    "title": "3  Masters of Applied Statistics",
-    "section": "",
-    "text": "Stub for the Masters of Applied Statistics (MAS) chapter.",
-    "crumbs": [
-      "Academics",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Masters of Applied Statistics</span>"
-    ]
+    "objectID": "academics/degrees.html#masters-of-applied-statistics-mas",
+    "href": "academics/degrees.html#masters-of-applied-statistics-mas",
+    "title": "1  Degrees",
+    "section": "1.3 Master’s of Applied Statistics (MAS)",
+    "text": "1.3 Master’s of Applied Statistics (MAS)"
+  },
+  {
+    "objectID": "academics/degrees.html#phd-minor",
+    "href": "academics/degrees.html#phd-minor",
+    "title": "1  Degrees",
+    "section": "1.4 PhD Minor",
+    "text": "1.4 PhD Minor"
+  },
+  {
+    "objectID": "academics/degrees.html#ms-minor",
+    "href": "academics/degrees.html#ms-minor",
+    "title": "1  Degrees",
+    "section": "1.5 MS Minor",
+    "text": "1.5 MS Minor"
   },
   {
     "objectID": "life.html",
     "href": "life.html",
     "title": "Life",
     "section": "",
-    "text": "Stub for the life part.",
-    "crumbs": [
-      "Life"
-    ]
+    "text": "Stub for the life part."
   },
   {
     "objectID": "incoming.html",
     "href": "incoming.html",
     "title": "Incoming",
     "section": "",
-    "text": "Stub for the incoming part.",
-    "crumbs": [
-      "Incoming"
-    ]
+    "text": "Stub for the incoming part."
   }
 ]
