@@ -12,5 +12,5 @@ please submit a [github issue](https://github.com/isustatistics/graduate_handboo
 If you have a solution to an issue, 
 please submit a [pull request](https://github.com/isustatistics/graduate_handbook/pulls). 
 
-Follow the [Getting Started Instructions](GETTING_STARTED.html)
+Follow the [Getting Started Instructions](GETTING_STARTED.md)
 to set up your computer and access to the repository.
