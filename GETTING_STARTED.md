@@ -31,8 +31,10 @@ Install the following software
 
 Configure git on your computer using Terminal in RStudio, enter the following
 
-> git config --global user.name "Jane Doe"
-> git config --global user.email "jane@example.com"
+```
+git config --global user.name "Jane Doe"
+git config --global user.email "jane@example.com"
+```
 
 Make sure the email address entered here is the same address you used for your
 github.com account. 
