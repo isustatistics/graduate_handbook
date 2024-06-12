@@ -2,7 +2,10 @@
 
 To contribute to this graduate handbook, 
 you will utilize the functionality of git repository hosted at github.com. 
-The first step is to [create an account at github.com](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
+The first step is to 
+
+- [ ] [create an account at github.com](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
+
 To ensure this account is available after you leave Iowa State University,
 it is recommended you use a personal email address. 
 
@@ -20,9 +23,9 @@ from these resources
 
 Install the following software
 
--[ ] [R](https://www.r-project.org/)
--[ ] [RStudio Desktop](https://posit.co/download/rstudio-desktop/)
--[ ] [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [ ] [R](https://www.r-project.org/)
+- [ ] [RStudio Desktop](https://posit.co/download/rstudio-desktop/)
+- [ ] [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Configure Git/GitHub
 
@@ -37,16 +40,16 @@ github.com account.
 To ease the interaction with github.com, it is recommended that you set up 
 SSH keys. 
 
--[ ] [Create SSH key in Rstudio](https://forum.posit.co/t/github-rstudio-how-to-switch-from-password-to-ssh/97096) (Leave passphrase blank)
--[ ] Click "View public key" and copy to clipboard
--[ ] [Add SSH RSA key to github.com](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account) (Step 1 has already been completed in the previous step.)
--[ ] [Test ssh github.com connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection). Using Terminal tab in RStudio enter the following
+- [ ] [Create SSH key in Rstudio](https://forum.posit.co/t/github-rstudio-how-to-switch-from-password-to-ssh/97096) (Leave passphrase blank)
+- [ ] Click "View public key" and copy to clipboard
+- [ ] [Add SSH RSA key to github.com](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account) (Step 1 has already been completed in the previous step.)
+- [ ] [Test ssh github.com connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection). Using Terminal tab in RStudio enter the following
 
 > ssh -T git@github.com
 
 ## Setup repository
 
--[ ] [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the [isustatistics/graduate_handbook](https://github.com/isustatistics/graduate_handbook) repository. 
--[ ] [Copy **SSH** (not HTTPS) GitHub CLI](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) (Steps 1-3 using your forked version.)
--[ ] [Create RStudio project](https://gge-ucd.github.io/R-DAVIS/setting_up_git.html#3_Create_a_New_Version_Controlled_(git)_RStudio_Project) (Locate repository anywhere you want on your computer using "Create project as subdirectory of:")
+- [ ] [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the [isustatistics/graduate_handbook](https://github.com/isustatistics/graduate_handbook) repository. 
+- [ ] [Copy **SSH** (not HTTPS) GitHub CLI](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) (Steps 1-3 using your forked version.)
+- [ ] [Create RStudio project](https://gge-ucd.github.io/R-DAVIS/setting_up_git.html#3_Create_a_New_Version_Controlled_(git)_RStudio_Project) (Locate repository anywhere you want on your computer using "Create project as subdirectory of:")
 
