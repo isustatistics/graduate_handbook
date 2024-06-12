@@ -49,7 +49,9 @@ SSH keys.
 
 Using Terminal tab in RStudio enter the following
 
-> ssh -T git@github.com
+```
+ssh -T git@github.com
+```
 
 ## Setup repository
 
