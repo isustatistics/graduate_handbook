@@ -45,7 +45,9 @@ SSH keys.
 - [ ] [Create SSH key in Rstudio](https://forum.posit.co/t/github-rstudio-how-to-switch-from-password-to-ssh/97096) (Leave passphrase blank)
 - [ ] Click "View public key" and copy to clipboard
 - [ ] [Add SSH RSA key to github.com](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account) (Step 1 has already been completed in the previous step.)
-- [ ] [Test ssh github.com connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection). Using Terminal tab in RStudio enter the following
+- [ ] [Test ssh github.com connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection). 
+
+Using Terminal tab in RStudio enter the following
 
 > ssh -T git@github.com
 
