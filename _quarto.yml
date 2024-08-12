@@ -17,8 +17,6 @@ book:
     - index.qmd
 
     - part: academics.qmd
-      chapters:
-        - academics/degrees.qmd
     - part: life.qmd
       # chapters:
       #   - life/housing.qmd

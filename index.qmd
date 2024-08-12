@@ -1,10 +1,41 @@
 # Graduate Student Handbook {.unnumbered}
 
-This is the 
-[Graduate Student Handbook](https://isustatistics.github.io/graduate_handbook/) for the 
-[Department of Statistics](https://www.stat.iastate.edu/)
-at 
-[Iowa State University](https://www.iastate.edu/).
-It is intended to be a supplement to the 
-[Graduate College Handbook](https://www.grad-college.iastate.edu/handbook/)
-at Iowa State University. 
+## Introduction {.unnumbered}
+
+This handbook was developed to give Graduate Students 
+in the Department of Statistics general guidance 
+and an outline of our expectations throughout their education at Iowa State University. 
+As the program continues to evolve, as do the policies of the Graduate College, 
+some of this information may be subject to change.  
+
+Students are expected to stay in close communication with their major professor, 
+and bring any questions or concerns to the DOGE and 
+Graduate Student Support Specialist regarding program requirements, policies, 
+and other important issues.
+
+In addition to this handbook, graduate students are expected to review and be 
+familiar with the [Graduate College Handbook](http://www.grad-college.iastate.edu/handbook/). 
+The Graduate College Handbook provides further details about university requirements, 
+policies and procedures. 
+There are frequent updates to this document, 
+so make certain that you have the most recent version. 
+
+
+## Welcome  {.unnumbered}
+
+Welcome to the Statistics program! 
+
+As a graduate student in the Department of Statistics you have become an important part of this large and complex organization that includes faculty, students, and staff. 
+
+The Statistical Laboratory, which forms part of the department, was the first statistics unit created in the country. 
+It dates from 1933 and is still in operation. 
+The Department of Statistics was established in 1947 and 
+it is housed in Snedecor Hall on the Iowa State University Campus in Ames, Iowa. 
+
+We are one of the largest departments of statistics in the nation (and in the world).
+As of today, we have about 30 faculty (depending on how you count) and 120 graduate students. 
+During any one year, anywhere between 10 and 20 graduate students receive their PhD in Statistics. A primary mission of the Department and the Statistical Laboratory is the 
+education and 
+
+Our Graduate Program in Statistics is consistently in the Top 20 according to national rankings by the National Research Council and in the US News & World Report Graduate Program Rankings (although the value and accuracy of these rankings is highly debatable). 
+Recent graduates from our program have gone on to work in industry (Amazon, Boeing, Disney, Google), national labs (NASA Jet Propulsion Lab, Los Alamos National Lab, Pacific Northwest National Lab), and academia (University of Nebraska-Lincoln, North Carolina State University, Carleton College). 
