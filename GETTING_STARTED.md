@@ -43,17 +43,25 @@ github.com account.
 To ease the interaction with github.com, it is recommended that you set up 
 SSH keys. 
 
-- [ ] [Create SSH key in Rstudio](https://forum.posit.co/t/github-rstudio-how-to-switch-from-password-to-ssh/97096) (Leave passphrase blank)
+- [ ] [Create SSH key](https://forum.posit.co/t/github-rstudio-how-to-switch-from-password-to-ssh/97096) 
+    - In RStudio, go to Tools > Global Options > Git/SVN. 
+    - Click "Create SSH Key..." and Create (Leave passphrase blank)
+    - Close
 - [ ] Click "View public key" and copy to clipboard
-- [ ] [Add SSH RSA key to github.com](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account) (Step 1 has already been completed in the previous step.)
-- [ ] [Test ssh github.com connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection). 
-
-Using [Terminal in RStudio](https://docs.posit.co/ide/user/ide/guide/tools/terminal.html)
+- [ ] [On GitHub.com, add SSH RSA.](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account) (Step 1 has already been completed in the previous step.)
+    - On Github.com, click on your github profile photo.
+    - Use Keytype: Authentication Key
+    - Paste public key to 
+- [ ] Test ssh github.com connection. In Rstudio, type the following into [Terminal](https://docs.posit.co/ide/user/ide/guide/tools/terminal.html)
 enter the following
 
 ```
 ssh -T git@github.com
 ```
+
+    - Answer 'yes' if prompted.
+    
+You should receive a message saying "You've successfully authenticated, but GitHub does not provide shell access."
 
 ## Setup repository
 
