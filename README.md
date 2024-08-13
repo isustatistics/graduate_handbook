@@ -1,7 +1,8 @@
 # graduate_handbook
 
-A repository for a graduate handbook for Statistics Students at Iowa State 
-University. 
+A repository for the 
+[Graduate Student Handbook](https://isustatistics.github.io/graduate_handbook/) 
+for Statistics Students at Iowa State University. 
 
 ## Contributing
 
