@@ -1,0 +1,50 @@
+# Changes
+
+This page tries to provide important changes that have occurred. 
+For a complete change log, please see the [repository commits](https://github.com/isustatistics/graduate_handbook/commits/main/). 
+
+## 2024-2025
+
+Starting this year, the Department changed 643/6430 from a required PhD course 
+to an elective PhD course.
+
+The university started using Workday as the underlying system for student 
+records. 
+This resulted in the following changes:
+
+- Course Renumbering
+- Wording Updates
+- Process Changes
+
+
+### Course Renumbering
+
+All courses at the university were converted from 3 digits to 4 digits by 
+adding a 0 to the end of the course number, e.g. STAT 542 is now STAT 5420. 
+It is expected that the Department will have a mass renumbering of courses soon
+to take advantage of the 4 digit numbers.
+
+### Wording Updates
+
+Many of the terms used in graduate education at ISU have changed. 
+Perhaps the two most important are 
+
+- Program of Study (POS) -> Academic Plan (AP)
+- Program of Study Committee (POSC) -> Academic Plan Committee (APC)
+
+### Process Changes
+
+Essentially all student processes, e.g. registration, payroll, etc, 
+are now in Workday. 
+
+## 2018
+
+In 2018, the university changed a rule that resulted in courses intended for
+graduate students outside Statistics to be renumbered from a 400-level course
+to a 500-level course. 
+The result of this is that there are many 500-level (now 5000-level) courses
+that CANNOT be used for the Statistics MS and PhD degrees.
+These courses include the following statement:
+
+> May not be used for graduate credit in the Statistics MS and PhD degree programs. 
+

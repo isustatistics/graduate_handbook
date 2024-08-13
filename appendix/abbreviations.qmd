@@ -1,0 +1,16 @@
+# Abbreviations
+
+While abbreviations are typically defined during their first use,
+this page provides a quick lookup for abbreviations that are commonly used.
+
+|Abbreviation|Meaning                             |
+|------------|------------------------------------|
+|AP          |Academic Plan                       |
+|APC         |Academic Plan Committee             |
+|AY          |Academic Year                       |
+|DOGE        |Director of Graduate Education      |
+|GSSS        |Graduate Student Services Specialist|
+|ISU         |Iowa State University               |
+|MS          |Master of Science                   |
+|MAS         |Master of Applied Statistics        |
+|PhD/PHD     |Doctor of Philosophy                |

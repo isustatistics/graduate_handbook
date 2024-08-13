@@ -16,14 +16,17 @@ book:
   chapters:
     - index.qmd
 
-    - part: academics.qmd
+    - part: "Academics"
       chapters: 
         - academics/degrees.qmd
         - academics/progress.qmd
-    - part: life.qmd
+    - part: "Life"
       # chapters:
       #   - life/housing.qmd
-    - part: incoming.qmd
+    - part: "Appendix"
+      chapters:
+        - appendix/abbreviations.qmd
+        - appendix/changes.qmd
 
 execute:
   freeze: auto

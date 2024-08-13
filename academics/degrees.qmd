@@ -3,16 +3,16 @@
 The Department of Statistics at Iowa State University provides the following
 graduate degrees:
 
-- Doctor of Philosophy (PhD)
-- Master of Science (MS)
-- Master of Applied Statistics (MAS) (coming Fall 2025)
-- Co-Major Doctor of Philosophy (Co-Major PhD)
+- [Doctor of Philosophy (PhD)](#doctor-of-philosophy-phd)
+- [Master of Science (MS)](#master-of-science-ms)
+- [Master of Applied Statistics (MAS)](#master-of-applied-statistics-mas)
+- [Co-Major Doctor of Philosophy (Co-Major PhD)](#co-major-doctor-of-philosophy-co-major-phd)
 
 The department also confers two graduate minors for students pursuing a 
 graduate degree in another department:
 
-- PhD Minor
-- MS Minor
+- [PhD Minor](#phd-minor)
+- [MS Minor](#ms-minor)
 
 
 ## Doctor of Philosophy (PhD)

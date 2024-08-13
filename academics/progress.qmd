@@ -1,8 +1,7 @@
 # Progress
 
 Continued membership in the Statistics MS or PhD program and financial support 
-(for graduate assistantships) from the department or a major professor are 
-contingent upon Satisfactory Academic Progress towards the degree.  
+are contingent upon Satisfactory Academic Progress towards the degree.  
 
 Satisfactory Academic Progress entails 
 
@@ -26,6 +25,8 @@ research work in progress, exams, POS meetings, future goals,
 timeline for degree completion, professional activities, 
 and provide an up-to-date curriculum vitae. 
 
+Modifications to these requirements requires approval of the DOGE. 
+
 ## Maintaining a 3.0 Cumulative GPA
 
 Under [Chapter 5 - Courses, Credits, and Grading](https://www.grad-college.iastate.edu/handbook/chapter5-coursework)
@@ -38,9 +39,15 @@ see the Probation and Academic Standing section.
 The timelines provided for each degree provide the semesters when courses are
 expected to be taken. 
 The minimum grade acceptable for a course on the Academic Plan is a C. 
-Thus, Successfully Complete Courses means to enroll and complete the courses
+Thus, Successfully Completing Courses means to enroll and complete the courses
 in the timelines given and receive a minimum of a C.
 
 
 ## Passing Qualifying Exams
 
+The Department of Statistics has qualifying exams for its MS and PhD degrees. 
+These are generally in-class exams given during summer break. 
+The MS qualifying exam is taken after Year 1 and the PhD qualifying exam is 
+taken after Year 2.
+Thus, Passing Qualifying Exams means to sit for an exam in the expected 
+timeline and pass the exam. 
