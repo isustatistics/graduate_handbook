@@ -10,6 +10,7 @@ Satisfactory Academic Progress requires you to
 and complete a series of requirements in a timely manner.
 These requirements include
 
+- Pass English Proficiency Test
 - Successfully Complete Courses
 - Pass Qualifying Exams
 - Find a Major Professor
@@ -34,6 +35,12 @@ in the Graduate Handbook,
 see the Probation and Academic Standing section.
 
 
+## Pass English Proficiency Test
+
+Modified from the [Graduate College English Requirements page](https://www.grad-college.iastate.edu/future/english-requirements):
+
+> All admitted graduate students who are nonnative speakers of English are required to complete the Graduate College English Requirement. Students are required to take the [English Placement Test] (EPT) at the beginning of their first semester and encouraged to complete the necessary ENGL 990 or ENGL 1010 courses during the first year with the Graduate College.
+
 ## Successfully Complete Courses
 
 The timelines provided for each degree provide the semesters when courses are
@@ -41,6 +48,7 @@ expected to be taken.
 The minimum grade acceptable for a course on the Academic Plan is a C. 
 Thus, Successfully Complete Courses means to enroll and complete the courses
 in the timelines given and receive a minimum of a C.
+
 
 
 ## Pass Qualifying Exams
@@ -57,19 +65,75 @@ timeline and pass the exam.
 
 ## Find a Major Professor
 
-Upon completion of Pass Qualifying Exams (but possibly sooner),
-the student should find a Major Professor. 
-Typically, this is accomplished by viewing recent publications by faculty,
-determining which publications are of interest to you, 
-setting up meetings with faculty to discuss their research and needs,
-and mutually agreeing with a faculty member that they are willing to be your
+The Major Professor will serve as the principal student advisor for all matters 
+related to research, academics, assistantships, and overall programmatic progress. 
+The major professor will also serve as the primary mentor and evaluator of 
+student performance and will be assisted by the Academic Plan Committee.  
+
+To find a Major Professor, students are encouraged to study faculty research
+interests by visiting faculty [webpages](https://www.stat.iastate.edu/people/faculty)  
+and reading their recent publications. 
+For faculty whose research interests align with your own, 
+students are encouraged to request a meeting to discuss the possibility of 
+the faculty become a Major Professor.
+Students are encouraged to talk with many faculty. 
+Before a Major Professor has been determined, 
+the student can seek advice from the DOGE.
+
+Positive working relationships with faculty, particularly Major Professors, 
+are vital to graduate student success. 
+The [Student & Major Professor Checklist](https://iastate.app.box.com/s/47brwwnas8mp54eb6qw9g3mhy377d56q)
+provides a number of discussion topics for graduate students and their
 Major Professor. 
 
+MS Students should have an agreed upon Major Professor early in the first 
+semester of their second year.
+PhD Students should have an agreed upon Major Professor shortly 
+after successful completion of the written qualifying examination.   
+
 ## Create an Academic Plan Committee
+
+The [Academic Plan Committee](https://www.grad-college.iastate.edu/handbook/chapter6-program)
+(APC) is composed of faculty who 
+direct course selection, 
+supervise progress towards degree,
+and evaluate the Final Oral Exam.
+The Major Professor serves as the chair of the APC. 
+In Statistics, the APC for an MS student is typically 3 faculty members.
+The APC should be developed shortly after a Major Professor has been agreed upon.
 
 
 
 ## Develop an Academic Plan
+
+The [Academic Plan](https://www.grad-college.iastate.edu/handbook/chapter6-program) 
+(AP) provides a course timeline for successful completion of your degree.
+You should develop your AP with your Major Professor to ensure you meet all
+university, department, and APC requirements. 
+The AP should be developed shortly after the APC is established. 
+
+
 ## Pass a Preliminary Exam
+
+The Oral Preliminary Exam is a Graduate College PhD requirement that varies 
+dramatically among departments at the university and among APCs within the
+department.
+Since the Department of Statistics has a written qualifying exam, 
+the oral preliminary exam is typically a presentation of research results as
+well as a roadmap for future research.
+This research will form the foundation of the PhD Dissertation. 
+While you should work with your Major Professor to determine when this exam 
+takes place, the department generally recommends that this exam occur about a
+year after research is initiated. 
+
+
 ## Write a Creative Component or Dissertation
+
+The primary product of an MS is the Creative Component (CC) while the primary product
+of a PhD is the Dissertation. 
+The CC is typically a 30-50 page manuscript describing the research undertaken
+by an MS student.
+The Dissertation is typically a 100-200 page manuscript with multiple chapters
+describing the research undertaken by a PhD student. 
+
 ## Pass a Final Exam

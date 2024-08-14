@@ -8,14 +8,17 @@ this page provides a quick lookup for abbreviations that are commonly used.
 |AP          |Academic Plan                                           |
 |APC         |Academic Plan Committee                                 |
 |AY          |Academic Year                                           |
+|CC          |Creative Component                                      |
 |CSAFE       |Center for Statistical Applications in Forensic Evidence|
 |CSSM        |Center for Survey Statistics & Methodology              |
 |DOGE        |Director of Graduate Education                          |
+|EPT         |English Proficiency Test                                |
 |GA          |Graduate Assistant                                      |
 |GSSS        |Graduate Student Services Specialist                    |
 |ISU         |Iowa State University                                   |
 |MS          |Master of Science                                       |
 |MAS         |Master of Applied Statistics                            |
+|OECT        |Oral English Certification Test                         |
 |PhD/PHD     |Doctor of Philosophy                                    |
 |RA          |Research Assistant                                      |
 |TA          |Teaching Assistant                                      |

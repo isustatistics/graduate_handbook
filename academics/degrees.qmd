@@ -3,76 +3,24 @@
 The Department of Statistics at Iowa State University provides the following
 graduate degrees:
 
-- [Doctor of Philosophy (PhD)](#doctor-of-philosophy-phd)
-- [Master of Science (MS)](#master-of-science-ms)
-- [Master of Applied Statistics (MAS)](#master-of-applied-statistics-mas)
-- [Co-Major Doctor of Philosophy (Co-Major PhD)](#co-major-doctor-of-philosophy-co-major-phd)
+- Master of Applied Statistics (MAS)
+- Master of Science (MS)
+- Doctor of Philosophy (PhD)
+- Co-Major Doctor of Philosophy (Co-Major PhD)
 
 The department also confers two graduate minors for students pursuing a 
 graduate degree in another department:
 
-- [PhD Minor](#phd-minor)
-- [MS Minor](#ms-minor)
+- PhD Minor
+- MS Minor
 
 
-## Doctor of Philosophy (PhD)
+## Master of Applied Statistics (MAS)
 
-### Learning Goals
+This degree is starting Fall 2025 and thus details about this degree are forthcoming. 
+For now, please see the details on the 
+[MAS page of the department website](https://www.stat.iastate.edu/master-applied-statistics-mas).
 
-1. Demonstrate comprehensive understanding of advanced statistical methods and theory, including probability, mathematical statistics, and the construction of probability-based models for complex data structures. 
-1. Demonstrate the ability to formulate statistical questions on the basis of objectives in substantive scientific investigations, and the ability to compute the quantities needed to bring statistical theory and methods to bear on those questions. 
-1. Conduct original research into one or more specific areas of statistical science that is of sufficient depth to merit publication in a statistical or scientific journal. 
-1. Demonstrate understanding of the scholarly literature in the area of dissertation research. 
-1. Demonstrate the ability to communicate research results to scientists and other researchers in both written and oral formats. 
-
-### Prerequisites
-
-**Multivariable calculus** (at least three semesters of calculus in the U.S. system) 
-and **linear algebra** are required background courses. 
-Applicants are also encouraged to complete a Real Analysis 
-(sometimes called Analysis or Advanced Calculus) course.
-
-### Requirements
-
-The MS degree requires 72 credits including 27 credits in required courses,
-at least 18 credits of dissertation research (STAT 6990), 
-and at least 15 credits from STAT elective courses including at least three
-courses at the 6000 level.
-In addition to completing the required course credits, 
-the student must pass a written qualifying exam. 
-During the final semester of study, 
-the student will submit their dissertation to their Academic Plan Committee (APC),
-present a public seminar of their work, 
-and hold a defense of their dissertation research with their APC.
-
-### Required Courses
-
-The following are the required courses organized by semester.
-
-- Fall Year 1
-    - STAT 5000 (4 cr) Statistical Methods I 
-    - STAT 5420 (4 cr) Theory of Probability and Statistics I 
-    - STAT 5790 (1 cr) An Introduction to R 
-- Spring Year 1
-    - STAT 5100 (3 cr) Statistical Methods II 
-    - STAT 5430 (3 cr) Theory of Probability and Statistics II
-- Fall Year 2
-    - STAT 5200 (3 cr) Statistical Methods III 
-    - STAT 6410 (3 cr) Foundations of Probability Theory
-- Spring Year 2
-    - STAT 6010 (3 cr) Advanced Statistical Methods
-    - STAT 6420 (3 cr) Advanced Probability Theory
-    
-Dissertation research and elective courses can be taken at any time during
-the program.
-
-For student's enrolling in the PhD program who have already obtained an
-appropriate Master's Degree in Statistics, 
-they may want to receive credit for courses already taken during that degree
-in lieu of the required courses listed above. 
-The student should obtain syllabi from the courses taken and work with the
-Director of Graduate Education (DOGE) to transfer those credits.
- 
 
 ## Master of Science (MS)
 
@@ -119,11 +67,60 @@ typical timing for elective courses.
     - STAT 5990 (2-4 cr) Creative Component Research
  
 
-## Master of Applied Statistics (MAS) (coming Fall 2025)
 
-More details about this degree are forthcoming. 
-For now, please see the details on the 
-[MAS page of the department website](https://www.stat.iastate.edu/master-applied-statistics-mas).
+
+## Doctor of Philosophy (PhD)
+
+### Learning Goals
+
+1. Demonstrate comprehensive understanding of advanced statistical methods and theory, including probability, mathematical statistics, and the construction of probability-based models for complex data structures. 
+1. Demonstrate the ability to formulate statistical questions on the basis of objectives in substantive scientific investigations, and the ability to compute the quantities needed to bring statistical theory and methods to bear on those questions. 
+1. Conduct original research into one or more specific areas of statistical science that is of sufficient depth to merit publication in a statistical or scientific journal. 
+1. Demonstrate understanding of the scholarly literature in the area of dissertation research. 
+1. Demonstrate the ability to communicate research results to scientists and other researchers in both written and oral formats. 
+
+### Prerequisites
+
+**Multivariable calculus** (at least three semesters of calculus in the U.S. system) 
+and **linear algebra** are required background courses. 
+Applicants are also encouraged to complete a **Real Analysis** 
+(sometimes called Analysis or Advanced Calculus) course.
+
+### Requirements
+
+The MS degree requires 72 credits including 27 credits in required courses,
+at least 18 credits of dissertation research (STAT 6990), 
+and at least 15 credits from STAT elective courses including at least three
+courses at the 6000 level.
+In addition to completing the required course credits, 
+the student must pass a written qualifying exam. 
+During the final semester of study, 
+the student will submit their dissertation to their Academic Plan Committee (APC),
+present a public seminar of their work, 
+and hold a defense of their dissertation research with their APC.
+
+### Required Courses
+
+In addition to knowledge of the MS required courses, 
+the PhD requires the following courses organized by semester.
+
+- Fall
+    - STAT 6410 (3 cr) Foundations of Probability Theory
+- Spring 
+    - STAT 6010 (3 cr) Advanced Statistical Methods
+    - STAT 6420 (3 cr) Advanced Probability Theory
+    
+Dissertation research and elective courses can be taken at any time during
+the program.
+
+Most students enroll in the MS required courses their first year and 
+these courses in their second year in the program. 
+Students with Master of Statistics degrees from outstanding institutions
+may immediately enroll in some or all of these courses in their first year.
+
+ 
+
+
 
 ## Co-Major Doctor of Philosophy (Co-Major PhD)
 
@@ -139,6 +136,8 @@ Track 2 - Theory
 
 The student must take the Master’s core (STAT 5000, 5100, 5200, 5790, 5420 and 5430) plus STAT 6410 and 6420. The program must also include at least three additional 5000- or 6000-level courses in Statistics. The student must also pass a written qualifying exam.
 The dissertation must advance the knowledge in at least one of the two disciplines. 
+
+
 
 ## PhD Minor
 
@@ -158,6 +157,7 @@ STAT 5420 and STAT 5430 can substitute for STAT 5880,
 but only one of the two courses can be used for Minor credit.
 If you take 5420 and 5430 instead of 5880, 
 you will still need two electives (for a total of 5 courses) to complete the Minor requirement.  
+
 
 
 ## MS Minor
