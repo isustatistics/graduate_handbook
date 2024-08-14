@@ -24,7 +24,7 @@ book:
       chapters: 
         - academics/degrees.qmd
         - academics/progress.qmd
-    - part: "Life"
+    # - part: "Life"
       # chapters:
       #   - life/housing.qmd
     - part: "Appendix"
