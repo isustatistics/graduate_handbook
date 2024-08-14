@@ -16,6 +16,10 @@ book:
   chapters:
     - index.qmd
 
+    - part: "Department"
+      chapters:
+        - department/people.qmd
+        - department/snedecor.qmd
     - part: "Academics"
       chapters: 
         - academics/degrees.qmd

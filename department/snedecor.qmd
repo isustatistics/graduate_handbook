@@ -1,0 +1,121 @@
+# Snedecor
+
+The Department of Statistics is located in Snedecor Hall, 2438 Osborn Drive, 
+Ames IA  50011-1090. 
+
+
+
+## Rooms
+
+The room numbers in Snedecor Hall are 4 digit numbers with the following format
+FHRR where
+
+- F is the Floor Number
+- H is the Hallway Number 
+- RR is the Room Number
+
+The hallway code is 
+
+- 1: North
+- 2: East
+- 4: West
+
+No rooms are listed as being located on the south hallway. 
+
+### 1121 - Main Office
+
+- 1121A - Graduate Student Mailboxes: They are organized alphabetically by last name. Please check your mailbox once a week.  These mailboxes are for official university mail only. 
+- 1121 B - [Graduate Support Services Specialist (GSSS)](../people#graduate-student-services-specialist-gsss)
+- 1121 C - Petrutza Caragea, Associate Chair 
+- 1121 D - Kacie Ging, Communication Specialist 
+- 1121 G - Kathy Kiesling, Administrative Assistant 
+- 1121 H - Dan Nettleton, Department Chair 
+
+### 1211 - Graduate Student Lounge
+
+Main Community Area with 2 refrigerators, microwave, copy machine, 
+table/chairs and comfy Seats. 
+Please clean up after yourself – you are the only one responsible for it.  
+
+### 1415 - Wellness Room
+
+This is a dedicated space for students to take time for relaxation and 
+intentional mindfulness/reflection.
+Please leave all work and other responsibilities at the door. 
+
+Reserve for a 30-minute time slot at the front desk in 1121 Main Office. 
+
+### 2101 - Reading Room
+
+The Statistics Department has provided a collection of statistical publications 
+frequently used by those doing research and/or involved with courses in statistics. 
+This is called the Statistics Department Reading Room and this facility is a 
+great convenience and benefit for those studying statistics at ISU. 
+The reading room receives no support from ISU Libraries and is entirely 
+supported by donations from alumni and friends. 
+
+Books may be checked out from the Reading Room. 
+More information can be found on the footer of the Department's Website
+which links to the 
+[Reading Room Checkout page](https://www.stat.iastate.edu/reading-room-checkout). 
+
+A kitchenette is provided for graduate student use with a refrigerator, 
+sink with garbage disposal, and microwave.  
+Please use this sink to wash dishes.  
+Do NOT use bathroom sinks to wash dishes.
+Keep the area clean by
+properly disposing of old food in the refrigerator, 
+covering food being warmed in the microwave, 
+and wiping any spills or messes.  
+
+
+### 2123 - IT Support
+
+For support requests, contact stat-tech@iastate.edu, 
+please do not email IT personnel directly.  
+
+Phone: 515-294-6609 - Student IT Technicians
+
+News and Software Info: https://www.stat.iastate.edu/it-support 
+
+Contact via WebEx: https://iastate.webex.com/meet/mbrekke 
+
+### 3105 - Seminar Room
+
+In addition to being used as a classroom for STAT 1010 Sections. 
+This room is used for 
+[Department of Statistics Seminars]().
+
+### 3111 - DOGE Office
+
+This is the [DOGE](../people#director-of-graduate-education-doge)'s office.
+
+
+### Conference Rooms
+
+Snedecor Hall has many rooms that can be reserved for use. 
+There is a link in the footer of the Department's Website which links to the
+[Room Scheduling page](https://www.stat.iastate.edu/room-scheduling).
+This page also provides links to the calendar of each individual room.
+
+### Graduate Student Offices
+
+Most graduate students have their offices in the cubicles in the middle of 
+each floor of Snedecor. 
+CSSM RAs will often have their offices in 
+[Physics Hall](https://www.fpm.iastate.edu/maps/buildings/building.asp?id=104)
+and CSAFE RAs will often have their offices in 
+[Durham Center](https://www.fpm.iastate.edu/maps/buildings/building.asp?id=32).
+
+### Building Access 
+
+Building Access is with your student ID via auto card reader.  
+New students will be given access after onboarding procedures are complete. 
+
+Look for the card reader outside of each proximity-locked door. 
+No reader? The door isn’t equipped with proximity locks. 
+
+Contact: 1121 G Snedecor - Kathy Kiesling, Administrative Assistant 
+
+If you are locked out of the building after hours,
+call Iowa State DPS at (515) 294-4428.
