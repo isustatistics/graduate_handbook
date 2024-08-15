@@ -7,6 +7,7 @@ this page provides a quick lookup for abbreviations that are commonly used.
 |------------|--------------------------------------------------------|
 |AP          |Academic Plan                                           |
 |APC         |Academic Plan Committee                                 |
+|ASA         |American Statistical Association                        |
 |AY          |Academic Year                                           |
 |CC          |Creative Component                                      |
 |CSAFE       |Center for Statistical Applications in Forensic Evidence|
@@ -16,9 +17,11 @@ this page provides a quick lookup for abbreviations that are commonly used.
 |GA          |Graduate Assistant                                      |
 |GSSS        |Graduate Student Services Specialist                    |
 |ISU         |Iowa State University                                   |
+|JSM         |Joint Statistical Meetings                              |
 |MS          |Master of Science                                       |
 |MAS         |Master of Applied Statistics                            |
 |OECT        |Oral English Certification Test                         |
 |PhD/PHD     |Doctor of Philosophy                                    |
 |RA          |Research Assistant                                      |
+|RSS         |Royal Statistical Society                               |
 |TA          |Teaching Assistant                                      |

@@ -25,7 +25,9 @@ book:
         - academics/degrees.qmd
         - academics/courses.qmd
         - academics/research.qmd
+        - academics/skills.qmd
         - academics/progress.qmd
+        - academics/expectations.qmd
     # - part: "Life"
       # chapters:
       #   - life/housing.qmd

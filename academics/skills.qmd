@@ -1,0 +1,99 @@
+# Skills
+
+In addition to the skills you will develop through coursework,
+there are many additional skills necessary to successfully complete a graduate
+program in statistics. 
+Many of these stills will need to be learned on your own. 
+
+## Computing
+
+Much of statistical research and teaching depends on the ability to write code 
+and perform analyses in various statistical software. 
+Here is a list of computing skills that may be relevant during your graduate 
+career. 
+
+### Statistical Software
+
+Here is a list of Statistical Software that may be needed
+
+- R
+- Python
+- SAS
+- JMP
+- SPSS
+- Matlab
+
+Most faculty and graduate students in statistics focus their work in R. 
+We have one course (STAT 5790) specifically devoted to R, 
+but much of your learning both for courses and research will be learned 
+on your own. 
+
+### Servers/Clusters
+
+The department and university have several servers and clusters available
+for graduate student use. 
+Most servers are linux based, although there is a Windows server for SAS. 
+The clusters all use the SLURM workload manager. 
+Here are some of the departmental resources:
+
+- pyrite
+- pronto
+- gs
+
+Here are some of the university resources:
+
+- condo
+- nova
+- hpc-class
+
+More information about university resources can be found at the 
+[high performance computing website](https://www.hpc.iastate.edu/). 
+
+
+### Data Wrangling
+
+Whether you are working with data or the output of simulations,
+you will invariable end up wrangling data to a format suitable for analysis or
+production of figures and tables. 
+
+### LaTeX
+
+[LaTeX](https://www.latex-project.org/)
+is the primary software system for typesetting documents in statistics.
+Getting comfortable with LaTeX as soon as possible will be helpful for your 
+graduate career. 
+
+
+## Communication
+
+Statisticians must communicate their statistical results typically through
+written work, poster presentations, and speaking. 
+The audience can vary from the general public to statistical experts
+and your communication style and level must adapt accordingly. 
+
+
+## Time Management
+
+As your life becomes more complicated with coursework, assistantship duties,
+and other outside-of-school demands, 
+you will need to improve your time management skills. 
+
+Keeping your calendar up-to-date will be helpful in organizing your time. 
+If you keep your [Outlook calendar](https://it.las.iastate.edu/scheduling-meetings-outlook-365)
+up-to-date, then it will help others schedule meetings. 
+
+Here are a couple of general resources about time management:
+
+- [Time Management by Randy Pausch](https://www.youtube.com/watch?v=oTugjssqOT0)
+- [Hadley Wickham's comments on procrastination](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/comment/cvh5gmn/)
+
+The latter is from one of the most famous alums of our PhD program. 
+
+
+## Networking
+
+Networking is the act of maintaining and building relationships in professional
+community. 
+As a student and a (teaching/research) assistant, you are networking. 
+As a presenter at a conference, you are networking. 
+Thus, maintaining professionalism through all your interactions are important. 

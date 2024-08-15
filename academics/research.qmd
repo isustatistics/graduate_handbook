@@ -19,8 +19,9 @@ To get started in research, you should
 - Attend [Working Group Meetings](https://www.stat.iastate.edu/working-group-meetings)
 - Attend [PhD and MS Defenses](https://www.stat.iastate.edu/defenses)
 - Attend (local) conferences:
-    - Undergraduate Research Symposia (once per semester including summer)
-    - GPSS Conference (annually in Feb)
+    - [Undergraduate Research Symposia](https://www.undergradresearch.iastate.edu/for-students/present-your-work/symposium-on-undergraduate-research-and-creative-expression) (once per semester including summer)
+    - [GPSS Conference](https://www.gpss.iastate.edu/conference) (annually in Feb)
+    - [American Statistical Association (ASA) Iowa Chapter Meetings](https://community.amstat.org/iowachapter/home) (annually?)
     - One-off conferences
 - Attend STAT-ers Research Breakfast 
 - Investigate faculty research
@@ -50,8 +51,45 @@ Generally, you will be doing some of the following
 ## Writing
 
 The primary product of a graduate program is a written CC or Dissertation. 
+Ultimately the CC and Dissertation chapters become journal articles. 
 Thus, writing is a key component your career as a graduate student. 
 Unfortunately, graduate students have little formal preparation focused on 
 the technical writing that is required in statistics. 
 
+One helpful university resource is the 
+[Center for Communication Excellence](https://cce.grad-college.iastate.edu/writing).
+This group provides one-on-one consultation where the client (you) provides
+a writing sample and the consultant provides feedback on this writing sample. 
+This is a helpful resource for everybody, but particularly for those whose
+native language is not English. 
+
 ## Presenting
+
+In addition to written content, a primary outlet for statistical research is 
+through presentations at conferences, departmental seminars, and job interviews.
+At conferences, these presentations can be in the form of posters or speaking
+presentations. 
+
+Good opportunities to practice presenting (either posters or speaking) is in 
+departmental 
+[working groups](https://www.stat.iastate.edu/working-group-meetings),
+[GPSS conference](https://www.gpss.iastate.edu/conference),
+[ASA Iowa Chapter(https://community.amstat.org/iowachapter/home) meeting, 
+and other local events. 
+
+When you and your Major Professor agree that you are ready,
+you will submit an abstract to present at a conference. 
+An abstract is a paragraph summary with a title that describes your work. 
+Conferences that faculty regularly attend are 
+
+- [Joint Statistical Meetings (JSM)](https://www.amstat.org/meetings/joint-statistical-meetings)
+- ENAR
+- WNAR
+- 
+
+### ISU Templates
+
+When representing Iowa State University, 
+it is appreciated if you utilize an 
+[Iowa State University template](https://www.print.iastate.edu/PrintingResources/DesignTemplates/).
+Various templates are available for both posters and presentations.  
