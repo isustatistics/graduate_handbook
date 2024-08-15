@@ -101,22 +101,29 @@ and hold a defense of their dissertation research with their APC.
 
 ### Required Courses
 
-In addition to knowledge of the MS required courses, 
-the PhD requires the following courses organized by semester.
+The following are the required courses organized by semester.
 
-- Fall
+- Fall Year 1
+    - STAT 5000 (4 cr) Statistical Methods I 
+    - STAT 5420 (4 cr) Theory of Probability and Statistics I 
+    - STAT 5790 (1 cr) An Introduction to R 
+- Spring Year 1
+    - STAT 5100 (3 cr) Statistical Methods II 
+    - STAT 5430 (3 cr) Theory of Probability and Statistics II
+- Fall Year 2
+    - STAT 5200 (3 cr) Statistical Methods III 
     - STAT 6410 (3 cr) Foundations of Probability Theory
-- Spring 
+- Spring Year 2
     - STAT 6010 (3 cr) Advanced Statistical Methods
     - STAT 6420 (3 cr) Advanced Probability Theory
     
 Dissertation research and elective courses can be taken at any time during
 the program.
 
-Most students enroll in the MS required courses their first year and 
-these courses in their second year in the program. 
-Students with Master of Statistics degrees from outstanding institutions
-may immediately enroll in some or all of these courses in their first year.
+Students enrolling in the PhD program who have already obtained an
+appropriate Master's Degree in Statistics may skip some of the 5000-level 
+courses in the first year.
+
 
  
 

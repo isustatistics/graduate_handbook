@@ -1,0 +1,57 @@
+# Research
+
+Required courses provide the necessary background to enroll in elective courses.
+Elective courses provide the necessary background to initiate research. 
+Ultimately, the primary purpose of a PhD program is train students in the 
+developing their capacity to perform research. 
+
+There are a variety of different types of research within the Department of 
+Statistics including theoretical, computational, applied, etc. 
+Ultimately, it is (statistical) research if it can be published within the 
+(statistical) literature. 
+
+
+## Getting Started
+
+To get started in research, you should 
+
+- Attend [Departmental Seminars](https://www.stat.iastate.edu/events/seminars)
+- Attend [Working Group Meetings](https://www.stat.iastate.edu/working-group-meetings)
+- Attend [PhD and MS Defenses](https://www.stat.iastate.edu/defenses)
+- Attend (local) conferences:
+    - Undergraduate Research Symposia (once per semester including summer)
+    - GPSS Conference (annually in Feb)
+    - One-off conferences
+- Attend STAT-ers Research Breakfast 
+- Investigate faculty research
+- Browse statistical journals
+    - [Chance](https://chance.amstat.org/)
+    - [Significance](https://significancemagazine.com/)
+    - [The American Statistican](https://www.tandfonline.com/journals/utas20)
+    - [many other journals](https://en.wikipedia.org/wiki/List_of_statistics_journals)
+    
+    
+
+## Researching
+
+When you have found a [Major Professor](progress.html#find-a-major-professor),
+the two of you will decide how to proceed on your research. 
+Generally, you will be doing some of the following
+
+- Reading the literature
+- Deriving results
+- Performing experiments or simulation studies
+- Producing figures and tables
+- Writing
+- Presenting
+
+
+
+## Writing
+
+The primary product of a graduate program is a written CC or Dissertation. 
+Thus, writing is a key component your career as a graduate student. 
+Unfortunately, graduate students have little formal preparation focused on 
+the technical writing that is required in statistics. 
+
+## Presenting

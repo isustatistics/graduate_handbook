@@ -23,6 +23,8 @@ book:
     - part: "Academics"
       chapters: 
         - academics/degrees.qmd
+        - academics/courses.qmd
+        - academics/research.qmd
         - academics/progress.qmd
     # - part: "Life"
       # chapters:

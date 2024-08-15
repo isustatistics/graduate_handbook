@@ -1,0 +1,101 @@
+# Courses
+
+The [Course Catalog](https://catalog.iastate.edu/) is the primary location to 
+find out about what courses exist at the University. 
+The [Schedule of Classes](https://classes-new.iastate.edu/) is the primary
+location ot find out what courses will be taught in upcoming semesters. 
+
+
+## Numbering
+
+At Iowa State, the 
+[course numbering system](https://catalog.iastate.edu/informationaboutcourses/) uses the following convention
+
+|Level|Audience                          |
+|-----|----------------------------------|
+|1000 |Undergraduate Freshman (1st Year) |
+|2000 |Undergraduate Sophomore (2nd Year)|
+|3000 |Undergraduate Junior (3rd Year)   |
+|4000 |Undergraduate Senior (4th Year)   |
+|-----|----------------------------------|
+|5000 |Graduate Masters                  |
+|6000 |Graduate PhD                      |
+|-----|----------------------------------|
+
+Some 4000-level courses are cross-listed as 5000-level courses, 
+e.g. STAT 4780/5780. 
+Thus some courses will have both undergraduate students and graduate students. 
+
+Some courses will be cross-listed with another department,
+e.g. STAT/MATH 5540.
+In these cases, you should enroll in the STAT version of the course.
+
+
+
+## Course Load
+
+The expectation for the number of credits a graduate student enrolls in is 
+less than that for an undergraduate. 
+The Graduate College stipulates that for graduate students on a half-time 
+appointment (20 hrs/week), the maximum number of credits during a semester is 12. 
+When on an assistantship there is a requirement to have at least 1 credit, 
+but otherwise all students on an assistantship are considered *full-time*. 
+
+Early in your graduate career, you should expect to enroll in 9 credits of 
+statistics courses during a semester. 
+In some semesters you may also enroll in additional courses, 
+e.g. MATH 4140, GRST 5400, ENGL 1010, etc. 
+Later in your career while you are primarily working on research, 
+you should aim for 3 credits of statistics courses per semester. 
+
+
+
+## Prerequisites
+
+Many graduate courses have prerequisites. 
+Unfortunately, prerequisites have not been enforced in the registration system
+and instructors have no way to check if a student has the necessary prerequisite
+courses. 
+Furthermore, the prerequisites have recently been removed from the 
+[Course Catalog](https://catalog.iastate.edu/azcourses/stat/). 
+Nonetheless, you should take prerequisities seriously and only enroll in courses
+where you satisfy the prerequisites. 
+
+## Required
+
+Required courses in Statistics Graduate Programs are listed under the 
+corresponding [degrees](../degrees.html).
+
+## Electives
+
+The Department of Statistics offers many elective courses at both the 5000- and
+6000-level. 
+Graduate students in the MS program should focus on 5000-level courses while
+graduate students in the PhD program should consider both. 
+
+### Restrictions
+
+Some 5000-level courses cannot be used for graduate credit in the Statistics
+MS and PhD degree programs. 
+These courses include the statement:
+
+> Graduation Restriction: May not be used for graduate credit in the Statistics MS and PhD degree programs.
+
+As a graduate student in the MS and PhD degree programs, 
+you should not enroll in these courses. 
+
+### Special Topics
+
+Courses using the 5900 and 6900 are special topics courses.
+When these courses are taught, faculty will send out emails to graduate students
+describing the content for that course in the upcoming semester.
+
+### Research
+
+When completing research, it is typical that the student will enroll in 
+STAT 5990 (Creative Component) or STAT 6990 (Research). 
+These courses have a section number associated with a faculty and the faculty
+member's approval is required. 
+It is typical to enroll in 1-3 credits per semester for these courses once
+research with a faculty member has been initiated.
+

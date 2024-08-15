@@ -19,6 +19,7 @@ These requirements include
 - Pass a Preliminary Exam
 - Write a Creative Component or Dissertation
 - Pass a Final Exam
+- Submit your CC or Dissertation
 
 At the end of every academic year each student will document their own progress 
 by preparing a brief annual report of their coursework, 
@@ -137,3 +138,19 @@ The Dissertation is typically a 100-200 page manuscript with multiple chapters
 describing the research undertaken by a PhD student. 
 
 ## Pass a Final Exam
+
+For an MS, once you have written the CC, you will schedule a 2-hour time-slot
+to present your CC and respond to questions and comments from the committee.
+If the committee feels you have reasonably responded to their questions,
+they will pass you on your final exam. 
+
+For a PhD, once you have written the Dissertation, 
+you will schedule a 50-minute public seminar followed by a 2-hour defense of
+your Dissertation. 
+If the committee feels you have reasonably responded to their questions,
+they will pass you on your final exam. 
+
+## Submit your CC or Dissertation
+
+Once you have passed your final exam, the final step will be to submit your 
+CC or Dissertation. 

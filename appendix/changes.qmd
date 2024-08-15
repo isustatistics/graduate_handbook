@@ -5,6 +5,8 @@ For a complete change log, please see the [repository commits](https://github.co
 
 ## 2024
 
+### STAT 6430 becomes an elective
+
 Starting this year, the Department changed 643/6430 from a required PhD course 
 to an elective PhD course.
 
@@ -15,7 +17,7 @@ This resulted in the following changes:
 - Course Renumbering
 - Wording Updates
 - Process Changes
-
+- Graduate Handbook Update
 
 ### Course Renumbering
 
@@ -32,10 +34,18 @@ Perhaps the two most important are
 - Program of Study (POS) -> Academic Plan (AP)
 - Program of Study Committee (POSC) -> Academic Plan Committee (APC)
 
+### Graduate Handbook Update
+
+The [Graduate Handbook](https://www.grad-college.iastate.edu/handbook) 
+has been updated to reflect wording changes. 
+
 ### Process Changes
 
 Essentially all student processes, e.g. registration, payroll, etc, 
 are now in Workday. 
+
+
+
 
 ## 2018
 
