@@ -22,6 +22,7 @@ book:
         - department/snedecor.qmd
     - part: "Academics"
       chapters: 
+        - academics/overview.qmd
         - academics/degrees.qmd
         - academics/courses.qmd
         - academics/research.qmd
