@@ -1,5 +1,19 @@
-# Fall 2025 Orientation
+# Fall 2025 Orientation 
 
 This page is intended to document content for the Fall 2025 Incoming 
 Graduate Student Orientation. 
 
+[Important Dates](dates.html)
+
+## 2025-05-15 {.unnumbered}
+
+- [Fly to DSM](https://isustatistics.github.io/grad_orientation/ames.html#2)
+- [Housing](https://isustatistics.github.io/grad_orientation/ames.html#21)
+- [F1 Visa](https://isso.dso.iastate.edu/students/f-1-students/f-1-students-guide)
+- [ISSO Slides](https://isustatistics.github.io/grad_orientation/files/ISSO_Graduate_Pre-Arrival_Slide.pptx)
+
+## 2025-05-29 {.unnumbered}
+
+- [Immigration Updates](https://isso.dso.iastate.edu/resources/immigration-updates)
+- [Dr. Nettleton's Slides](https://isustatistics.github.io/grad_orientation/files/Nettleton%20Slides.pdf)
+- [Linear Algebra](https://isustatistics.github.io/grad_orientation/files/StatLinearAlgebraIntro.pdf)
