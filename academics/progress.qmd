@@ -54,15 +54,31 @@ in the timelines given and receive a minimum of a C.
 
 ## Pass Qualifying Exams
 
-The Department of Statistics has qualifying exams for its MS and PhD degrees. 
-These are generally in-class exams given during summer break. 
-The MS qualifying exam is taken after Year 1 
-(after completion of STAT 500, 510, 542, and 543)
-and the PhD qualifying exam is 
-taken after Year 2 
-(after completion of STAT 520, 601, 641, and 642).
-Thus, Pass Qualifying Exams means to sit for an exam in the expected 
-timeline and pass the exam. 
+
+The PhD Written Qualifying Exam covers content in first-year required courses:
+STAT 5000, 5100, 5420, 5430, and 5790.
+The exam is given in May and in August. 
+Students are expected to take the exam in May of their first year and, 
+if they did not pass or do not take the May exam, 
+will have their final attempt in August of the same year. 
+Delaying the exam is only permitted due to extenuating circumstances and 
+requires written approval by the department.
+
+The exam is given as a two-part exam over 4 hours on each of two consecutive days. 
+The first part of the exam generally covers Methods questions related to 
+STAT 5000 and 5100 while the second part covers Theory questions related to
+STAT 5420 and 5430. 
+Content from STAT 5790 may be incorporated into either or both parts of 
+the exam. 
+
+Students are provided standard distribution tables, e.g.
+z-tables, t-tables, and chi-square tables, 
+as well as calculators. 
+English dictionaries may be used, but must be turned in 2 days prior to the exam.
+
+
+
+
 
 ## Find a Major Professor
 

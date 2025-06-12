@@ -3,6 +3,18 @@
 This page tries to provide important changes that have occurred. 
 For a complete change log, please see the [repository commits](https://github.com/isustatistics/graduate_handbook/commits/main/). 
 
+## 2025
+
+### Written qualifying exams
+
+The Department has changed the written qualifying exam structure. 
+Starting in Fall 2025, 
+
+- MS degree has no written qualifying exam
+- PhD degree has a [written qualifying exam](../academics/progress.html#pass-qualifying-exams) covering first-year core courses. 
+
+
+
 ## 2024
 
 ### STAT 6430 becomes an elective

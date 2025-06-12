@@ -386,7 +386,7 @@
     "href": "academics/progress.html#pass-qualifying-exams",
     "title": "8  Progress",
     "section": "8.4 Pass Qualifying Exams",
-    "text": "8.4 Pass Qualifying Exams\nThe Department of Statistics has qualifying exams for its MS and PhD degrees. These are generally in-class exams given during summer break. The MS qualifying exam is taken after Year 1 (after completion of STAT 500, 510, 542, and 543) and the PhD qualifying exam is taken after Year 2 (after completion of STAT 520, 601, 641, and 642). Thus, Pass Qualifying Exams means to sit for an exam in the expected timeline and pass the exam.",
+    "text": "8.4 Pass Qualifying Exams\nThe PhD Written Qualifying Exam covers content in first-year required courses: STAT 5000, 5100, 5420, 5430, and 5790. The exam is given in May and in August. Students are expected to take the exam in May of their first year and, if they did not pass or do not take the May exam, will have their final attempt in August of the same year. Delaying the exam is only permitted due to extenuating circumstances and requires written approval by the department.\nThe exam is given as a two-part exam over 4 hours on each of two consecutive days. The first part of the exam generally covers Methods questions related to STAT 5000 and 5100 while the second part covers Theory questions related to STAT 5420 and 5430. Content from STAT 5790 may be incorporated into either or both parts of the exam.\nStudents are provided standard distribution tables, e.g. z-tables, t-tables, and chi-square tables, as well as calculators. English dictionaries may be used, but must be turned in 2 days prior to the exam.",
     "crumbs": [
       "Academics",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Progress</span>"
@@ -683,7 +683,7 @@
     "href": "appendix/changes.html",
     "title": "15  Changes",
     "section": "",
-    "text": "15.1 2024",
+    "text": "15.1 2025",
     "crumbs": [
       "Appendix",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Changes</span>"
@@ -694,7 +694,7 @@
     "href": "appendix/changes.html#section",
     "title": "15  Changes",
     "section": "",
-    "text": "15.1.1 STAT 6430 becomes an elective\nStarting this year, the Department changed 643/6430 from a required PhD course to an elective PhD course.\nThe university started using Workday as the underlying system for student records. This resulted in the following changes:\n\nCourse Renumbering\nWording Updates\nProcess Changes\nGraduate Handbook Update\n\n\n\n15.1.2 Course Renumbering\nAll courses at the university were converted from 3 digits to 4 digits by adding a 0 to the end of the course number, e.g. STAT 542 is now STAT 5420. It is expected that the Department will have a mass renumbering of courses soon to take advantage of the 4 digit numbers.\n\n\n15.1.3 Wording Updates\nMany of the terms used in graduate education at ISU have changed. Perhaps the two most important are\n\nProgram of Study (POS) -&gt; Academic Plan (AP)\nProgram of Study Committee (POSC) -&gt; Academic Plan Committee (APC)\n\n\n\n15.1.4 Graduate Handbook Update\nThe Graduate Handbook has been updated to reflect wording changes.\n\n\n15.1.5 Process Changes\nEssentially all student processes, e.g. registration, payroll, etc, are now in Workday.",
+    "text": "15.1.1 Written qualifying exams\nThe Department has changed the written qualifying exam structure. Starting in Fall 2025,\n\nMS degree has no written qualifying exam\nPhD degree has a written qualifying exam covering first-year core courses.",
     "crumbs": [
       "Appendix",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Changes</span>"
@@ -704,8 +704,19 @@
     "objectID": "appendix/changes.html#section-1",
     "href": "appendix/changes.html#section-1",
     "title": "15  Changes",
-    "section": "15.2 2018",
-    "text": "15.2 2018\nIn 2018, the university changed a rule that resulted in courses intended for graduate students outside Statistics to be renumbered from a 400-level course to a 500-level course. The result of this is that there are many 500-level (now 5000-level) courses that CANNOT be used for the Statistics MS and PhD degrees. These courses include the following statement:\n\nMay not be used for graduate credit in the Statistics MS and PhD degree programs.",
+    "section": "15.2 2024",
+    "text": "15.2 2024\n\n15.2.1 STAT 6430 becomes an elective\nStarting this year, the Department changed 643/6430 from a required PhD course to an elective PhD course.\nThe university started using Workday as the underlying system for student records. This resulted in the following changes:\n\nCourse Renumbering\nWording Updates\nProcess Changes\nGraduate Handbook Update\n\n\n\n15.2.2 Course Renumbering\nAll courses at the university were converted from 3 digits to 4 digits by adding a 0 to the end of the course number, e.g. STAT 542 is now STAT 5420. It is expected that the Department will have a mass renumbering of courses soon to take advantage of the 4 digit numbers.\n\n\n15.2.3 Wording Updates\nMany of the terms used in graduate education at ISU have changed. Perhaps the two most important are\n\nProgram of Study (POS) -&gt; Academic Plan (AP)\nProgram of Study Committee (POSC) -&gt; Academic Plan Committee (APC)\n\n\n\n15.2.4 Graduate Handbook Update\nThe Graduate Handbook has been updated to reflect wording changes.\n\n\n15.2.5 Process Changes\nEssentially all student processes, e.g. registration, payroll, etc, are now in Workday.",
+    "crumbs": [
+      "Appendix",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Changes</span>"
+    ]
+  },
+  {
+    "objectID": "appendix/changes.html#section-2",
+    "href": "appendix/changes.html#section-2",
+    "title": "15  Changes",
+    "section": "15.3 2018",
+    "text": "15.3 2018\nIn 2018, the university changed a rule that resulted in courses intended for graduate students outside Statistics to be renumbered from a 400-level course to a 500-level course. The result of this is that there are many 500-level (now 5000-level) courses that CANNOT be used for the Statistics MS and PhD degrees. These courses include the following statement:\n\nMay not be used for graduate credit in the Statistics MS and PhD degree programs.",
     "crumbs": [
       "Appendix",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Changes</span>"
