@@ -11,8 +11,8 @@ graduate degrees:
 The department also confers two graduate minors for students pursuing a 
 graduate degree in another department:
 
-- PhD Minor
 - MS Minor
+- PhD Minor
 
 
 ## Master of Applied Statistics (MAS)
@@ -66,7 +66,7 @@ typical timing for elective courses.
     - STAT Electives (3-9 cr) 
     - STAT 5990 (2-4 cr) Creative Component Research
  
-
+ 
 
 
 ## Doctor of Philosophy (PhD)
@@ -146,6 +146,27 @@ The dissertation must advance the knowledge in at least one of the two disciplin
 
 
 
+## MS Minor
+
+The Statistics MS Minor is for MS students in other disciplines who are 
+interested in obtaining a minor in Statistics. 
+
+### Requirements 
+
+- Complete a minimum of 3 Statistics courses, including STAT 5870, 5880, and at least one elective STAT course (of at least 3 credits each) at the 5000 level or higher. 
+- Receive at least a B grade in both STAT 5870 and 5880, and a grade point average for the four courses of at least 3.33 (B+). 
+- Include at least one Department of Statistics faculty member as a minor representative on your Academic Plan Committee.
+
+Note: 
+STAT 5000 can be substituted for STAT 5870, 
+but only one of the two courses can be used for Minor credit. 
+STAT 5420 and STAT 5430 can substitute for STAT 5880,
+but only one of the two courses can be used for Minor credit.
+If you take 5420 and 5430 instead of 5880, 
+you will still need two electives (for a total of 4 courses) to complete the Minor requirement.  
+
+
+
 ## PhD Minor
 
 The Statistics PhD Minor is for PhD students in other disciplines who are 
@@ -166,23 +187,4 @@ If you take 5420 and 5430 instead of 5880,
 you will still need two electives (for a total of 5 courses) to complete the Minor requirement.  
 
 
-
-## MS Minor
-
-The Statistics MS Minor is for MS students in other disciplines who are 
-interested in obtaining a minor in Statistics. 
-
-### Requirements 
-
-- Complete a minimum of 3 Statistics courses, including STAT 5870, 5880, and at least one elective STAT course (of at least 3 credits each) at the 5000 level or higher. 
-- Receive at least a B grade in both STAT 5870 and 5880, and a grade point average for the four courses of at least 3.33 (B+). 
-- Include at least one Department of Statistics faculty member as a minor representative on your Academic Plan Committee.
-
-Note: 
-STAT 5000 can be substituted for STAT 5870, 
-but only one of the two courses can be used for Minor credit. 
-STAT 5420 and STAT 5430 can substitute for STAT 5880,
-but only one of the two courses can be used for Minor credit.
-If you take 5420 and 5430 instead of 5880, 
-you will still need two electives (for a total of 4 courses) to complete the Minor requirement.  
 
