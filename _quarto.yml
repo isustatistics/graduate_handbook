@@ -32,12 +32,12 @@ book:
     # - part: "Life"
       # chapters:
       #   - life/housing.qmd
-    - part: "Orientation"
+    - part: "Orientation - 2025"
       chapters:
-        - orientation/dates.qmd
-        - orientation/summer2025.qmd
-        - orientation/preclass2025.qmd
-        - orientation/fall2025.qmd
+        - orientation/2025/dates.qmd
+        - orientation/2025/summer.qmd
+        - orientation/2025/preclass.qmd
+        - orientation/2025/fall.qmd
     - part: "Appendix"
       chapters:
         - appendix/abbreviations.qmd
