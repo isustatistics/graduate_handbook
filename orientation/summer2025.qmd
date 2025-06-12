@@ -18,15 +18,3 @@ Graduate Student Orientation.
 - [Dr. Nettleton's Slides](https://isustatistics.github.io/grad_orientation/files/Nettleton%20Slides.pdf)
 - [Linear Algebra](https://isustatistics.github.io/grad_orientation/files/StatLinearAlgebraIntro.pdf)
 
-
-# Pre-class Orientation
-
-In addition to the Summer Virtual 2025 Orientation,
-we will have a 
-[in-person orientation](https://isustatistics.github.io/graduate_handbook/orientation/dates.html#orientations) before classes start. 
-
-# Fall 2025 Orientation
-
-During your first fall, 
-you will have a weekly meeting with the 
-[DOGE](https://isustatistics.github.io/graduate_handbook/department/people.html#director-of-graduate-education-doge). 
