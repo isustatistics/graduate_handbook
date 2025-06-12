@@ -386,7 +386,7 @@
     "href": "academics/progress.html#pass-qualifying-exams",
     "title": "8  Progress",
     "section": "8.4 Pass Qualifying Exams",
-    "text": "8.4 Pass Qualifying Exams\nThe Department of Statistics has a written qualifying exam for its PhD degree known as the PhD Written Qualifying Exam. The PhD Written Qualifying Exam covers content in first-year required courses: STAT 5000, 5100, 5420, 5430, and (possibly) 5790.\nThe exam is given in May and in August.",
+    "text": "8.4 Pass Qualifying Exams\nThe Department of Statistics has qualifying exams for its MS and PhD degrees. These are generally in-class exams given during summer break. The MS qualifying exam is taken after Year 1 (after completion of STAT 500, 510, 542, and 543) and the PhD qualifying exam is taken after Year 2 (after completion of STAT 520, 601, 641, and 642). Thus, Pass Qualifying Exams means to sit for an exam in the expected timeline and pass the exam.",
     "crumbs": [
       "Academics",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Progress</span>"
@@ -602,8 +602,8 @@
     ]
   },
   {
-    "objectID": "orientation/2025.html",
-    "href": "orientation/2025.html",
+    "objectID": "orientation/summer2025.html",
+    "href": "orientation/summer2025.html",
     "title": "11  Summer 2025 Orientation",
     "section": "",
     "text": "2025-05-15",
@@ -613,8 +613,8 @@
     ]
   },
   {
-    "objectID": "orientation/2025.html#section",
-    "href": "orientation/2025.html#section",
+    "objectID": "orientation/summer2025.html#section",
+    "href": "orientation/summer2025.html#section",
     "title": "11  Summer 2025 Orientation",
     "section": "",
     "text": "Fly to DSM\nHousing\nF1 Visa\nISSO Slides",
@@ -624,8 +624,8 @@
     ]
   },
   {
-    "objectID": "orientation/2025.html#section-1",
-    "href": "orientation/2025.html#section-1",
+    "objectID": "orientation/summer2025.html#section-1",
+    "href": "orientation/summer2025.html#section-1",
     "title": "11  Summer 2025 Orientation",
     "section": "2025-05-29",
     "text": "2025-05-29\n\nImmigration Updates\nDr. Nettleton’s Slides\nLinear Algebra",
@@ -635,58 +635,69 @@
     ]
   },
   {
+    "objectID": "orientation/preclass2025.html",
+    "href": "orientation/preclass2025.html",
+    "title": "12  Pre-class Orientation",
+    "section": "",
+    "text": "In addition to the Summer Virtual 2025 Orientation, we will have a in-person orientation before classes start.",
+    "crumbs": [
+      "Orientation",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Pre-class Orientation</span>"
+    ]
+  },
+  {
+    "objectID": "orientation/fall2025.html",
+    "href": "orientation/fall2025.html",
+    "title": "13  Fall 2025 Orientation",
+    "section": "",
+    "text": "During your first fall, you will have a weekly meeting with the DOGE.",
+    "crumbs": [
+      "Orientation",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Fall 2025 Orientation</span>"
+    ]
+  },
+  {
     "objectID": "appendix/abbreviations.html",
     "href": "appendix/abbreviations.html",
-    "title": "12  Abbreviations",
+    "title": "14  Abbreviations",
     "section": "",
     "text": "While abbreviations are typically defined during their first use, this page provides a quick lookup for abbreviations that are commonly used.\n\n\n\nAbbreviation\nMeaning\n\n\n\n\nAP\nAcademic Plan\n\n\nAPC\nAcademic Plan Committee\n\n\nASA\nAmerican Statistical Association\n\n\nAY\nAcademic Year\n\n\nCC\nCreative Component\n\n\nCSAFE\nCenter for Statistical Applications in Forensic Evidence\n\n\nCSSM\nCenter for Survey Statistics & Methodology\n\n\nDOGE\nDirector of Graduate Education\n\n\nEPT\nEnglish Proficiency Test\n\n\nGA\nGraduate Assistant\n\n\nGSSS\nGraduate Student Services Specialist\n\n\nISU\nIowa State University\n\n\nJSM\nJoint Statistical Meetings\n\n\nMS\nMaster of Science\n\n\nMAS\nMaster of Applied Statistics\n\n\nOECT\nOral English Certification Test\n\n\nPhD/PHD\nDoctor of Philosophy\n\n\nRA\nResearch Assistant\n\n\nRSS\nRoyal Statistical Society\n\n\nTA\nTeaching Assistant",
     "crumbs": [
       "Appendix",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Abbreviations</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Abbreviations</span>"
     ]
   },
   {
     "objectID": "appendix/changes.html",
     "href": "appendix/changes.html",
-    "title": "13  Changes",
+    "title": "15  Changes",
     "section": "",
-    "text": "13.1 2025",
+    "text": "15.1 2024",
     "crumbs": [
       "Appendix",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Changes</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Changes</span>"
     ]
   },
   {
     "objectID": "appendix/changes.html#section",
     "href": "appendix/changes.html#section",
-    "title": "13  Changes",
+    "title": "15  Changes",
     "section": "",
-    "text": "13.1.1 Written qualifying exams\nThe Department has changed the written qualifying exam structure. Starting in Fall 2025,\n\nMS degree has no written qualifying exam\nPhD degree has one qualifying exam covering STAT 500, 510, 542, and 543",
+    "text": "15.1.1 STAT 6430 becomes an elective\nStarting this year, the Department changed 643/6430 from a required PhD course to an elective PhD course.\nThe university started using Workday as the underlying system for student records. This resulted in the following changes:\n\nCourse Renumbering\nWording Updates\nProcess Changes\nGraduate Handbook Update\n\n\n\n15.1.2 Course Renumbering\nAll courses at the university were converted from 3 digits to 4 digits by adding a 0 to the end of the course number, e.g. STAT 542 is now STAT 5420. It is expected that the Department will have a mass renumbering of courses soon to take advantage of the 4 digit numbers.\n\n\n15.1.3 Wording Updates\nMany of the terms used in graduate education at ISU have changed. Perhaps the two most important are\n\nProgram of Study (POS) -&gt; Academic Plan (AP)\nProgram of Study Committee (POSC) -&gt; Academic Plan Committee (APC)\n\n\n\n15.1.4 Graduate Handbook Update\nThe Graduate Handbook has been updated to reflect wording changes.\n\n\n15.1.5 Process Changes\nEssentially all student processes, e.g. registration, payroll, etc, are now in Workday.",
     "crumbs": [
       "Appendix",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Changes</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Changes</span>"
     ]
   },
   {
     "objectID": "appendix/changes.html#section-1",
     "href": "appendix/changes.html#section-1",
-    "title": "13  Changes",
-    "section": "13.2 2024",
-    "text": "13.2 2024\n\n13.2.1 STAT 6430 becomes an elective\nStarting this year, the Department changed 643/6430 from a required PhD course to an elective PhD course.\nThe university started using Workday as the underlying system for student records. This resulted in the following changes:\n\nCourse Renumbering\nWording Updates\nProcess Changes\nGraduate Handbook Update\n\n\n\n13.2.2 Course Renumbering\nAll courses at the university were converted from 3 digits to 4 digits by adding a 0 to the end of the course number, e.g. STAT 542 is now STAT 5420. It is expected that the Department will have a mass renumbering of courses soon to take advantage of the 4 digit numbers.\n\n\n13.2.3 Wording Updates\nMany of the terms used in graduate education at ISU have changed. Perhaps the two most important are\n\nProgram of Study (POS) -&gt; Academic Plan (AP)\nProgram of Study Committee (POSC) -&gt; Academic Plan Committee (APC)\n\n\n\n13.2.4 Graduate Handbook Update\nThe Graduate Handbook has been updated to reflect wording changes.\n\n\n13.2.5 Process Changes\nEssentially all student processes, e.g. registration, payroll, etc, are now in Workday.",
+    "title": "15  Changes",
+    "section": "15.2 2018",
+    "text": "15.2 2018\nIn 2018, the university changed a rule that resulted in courses intended for graduate students outside Statistics to be renumbered from a 400-level course to a 500-level course. The result of this is that there are many 500-level (now 5000-level) courses that CANNOT be used for the Statistics MS and PhD degrees. These courses include the following statement:\n\nMay not be used for graduate credit in the Statistics MS and PhD degree programs.",
     "crumbs": [
       "Appendix",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Changes</span>"
-    ]
-  },
-  {
-    "objectID": "appendix/changes.html#section-2",
-    "href": "appendix/changes.html#section-2",
-    "title": "13  Changes",
-    "section": "13.3 2018",
-    "text": "13.3 2018\nIn 2018, the university changed a rule that resulted in courses intended for graduate students outside Statistics to be renumbered from a 400-level course to a 500-level course. The result of this is that there are many 500-level (now 5000-level) courses that CANNOT be used for the Statistics MS and PhD degrees. These courses include the following statement:\n\nMay not be used for graduate credit in the Statistics MS and PhD degree programs.",
-    "crumbs": [
-      "Appendix",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Changes</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Changes</span>"
     ]
   }
 ]
