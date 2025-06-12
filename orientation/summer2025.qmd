@@ -18,3 +18,10 @@ Graduate Student Orientation.
 - [Dr. Nettleton's Slides](https://isustatistics.github.io/grad_orientation/files/Nettleton%20Slides.pdf)
 - [Linear Algebra](https://isustatistics.github.io/grad_orientation/files/StatLinearAlgebraIntro.pdf)
 
+
+## 2025-06-12 {.unnumbered}
+
+- [Welcome to ISU Stats!](files/Welcome to ISU STATS! 2025.pdf)
+- [GA Insurance Benefits](files/GA Insurance Benefits .pdf)
+- [UHR - Workday Onboarding Quick Reference Guide for Graduate Assistants](files/UHR - Workday Onboarding Quick Reference Guide for Graduate Assistants.pdf)
+- [English Requirement - GC Slide](files/English Requirement - GC Slide.pdf)
