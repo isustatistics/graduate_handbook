@@ -26,7 +26,8 @@ render the site using
 
     quarto render
     
-Make a commit and then submit a [pull request](https://github.com/isustatistics/graduate_handbook/pulls).
+Make a commit including all doc/ folder content
+and then submit a [pull request](https://github.com/isustatistics/graduate_handbook/pulls).
 
 
 
